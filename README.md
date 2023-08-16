@@ -1,2 +1,2 @@
 # test
-The files ae in the remote branch!!
+The files are in the remote branch!!
