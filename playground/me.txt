@@ -1,0 +1,8 @@
+{{#user}
+Name: Srinanda Das
+Skills: HTML, CSS, JS, Next.js
+Email: das.srinanda2002.com
+{{/user}}
+
+
+
